@@ -3,25 +3,30 @@ layout: post
 title:  "IM20a"
 ---
 
-| Name        | Vorname   | Titel          | Doku         | Repo URL     | Live URL     | Status | Option |
-| ----------- | --------- | -------------- | ------------ | ------------ | ------------ | ------ | ------ |
-| Arifi       | Tiziano   |                |              |              |              | Spec   |        |
-| Bengl       | Daniel    | Crossyroad     | [öffnen][12] | [öffnen][32] |              | Coding | JS     |
-| Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] |              | Coding | JS     |
-| Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] |              | Spec   | JS     |
-| Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] |              | Coding | JS     |
-| Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] |              | Coding | JS     |
-| Häring      | Ivan      | Snake          | [öffnen][17] |              |              | Spec   | JS     |
-| Hunziker    | Chris     |                | [öffnen][18] |              |              | Spec   | JS     |
-| Jeyaranjan  | Jenith    |                | [öffnen][19] |              |              | Spec   | JS     |
-| Jovanovic   | Philip    | Schach Engine  | [öffnen][20] |              |              | Spec   | JS     |
-| Korona      | Jakub     |                | [öffnen][21] |              |              | Spec   | React  |
-| Leuenberger | Nimai     |                | [öffnen][22] |              |              | Spec   | JS     |
-| Rybarczyk   | Phailin   | Ping-Pong Game | [öffnen][23] |              |              | Spec   | JS     |
-| Thuma       | Pascal    |                |              |              |              | Spec   |        |
-| Veljkovic   | Andrej    | Snake          | [öffnen][25] |              |              | Spec   | JS     |
-| Witte       | Hermann   |                | [öffnen][26] |              |              | Spec   |        |
+| Name        | Vorname   | Titel          | Doku         | Repo URL     | Live URL     | Status        | Option |
+| ----------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------- | ------ |
+| Arifi       | Tiziano   |                |              |              |              | <r>Spec  </r> |        |
+| Bengl       | Daniel    | Crossyroad     | [öffnen][12] | [öffnen][32] |              | <g>Coding</g> | JS     |
+| Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] |              | <g>Coding</g> | JS     |
+| Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] |              | <o>Spec  </o> | JS     |
+| Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] |              | <g>Coding</g> | JS     |
+| Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] |              | <g>Coding</g> | JS     |
+| Häring      | Ivan      | Snake          | [öffnen][17] |              |              | <o>Spec  </o> | JS     |
+| Hunziker    | Chris     |                | [öffnen][18] |              |              | <o>Spec  </o> | JS     |
+| Jeyaranjan  | Jenith    |                | [öffnen][19] |              |              | <o>Spec  </o> | JS     |
+| Jovanovic   | Philip    | Schach Engine  | [öffnen][20] |              |              | <o>Spec  </o> | JS     |
+| Korona      | Jakub     |                | [öffnen][21] |              |              | <o>Spec  </o> | React  |
+| Leuenberger | Nimai     |                | [öffnen][22] |              |              | <o>Spec  </o> | JS     |
+| Rybarczyk   | Phailin   | Ping-Pong Game | [öffnen][23] |              |              | <o>Spec  </o> | JS     |
+| Thuma       | Pascal    |                |              |              |              | <r>Spec  </r> |        |
+| Veljkovic   | Andrej    | Snake          | [öffnen][25] |              |              | <o>Spec  </o> | JS     |
+| Witte       | Hermann   |                | [öffnen][26] |              |              | <o>Spec  </o> |        |
 
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 
 [12]: doc/S4F-Projekt_Daniel_Bengl_Crossyroad.pdf
 [13]: doc/S4F-Projekt_Nick_Camenisch_und_Nick_Forster_Monopoly.pdf

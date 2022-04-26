@@ -3,24 +3,29 @@ layout: post
 title:  "IM20b"
 ---
 
-| Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Status | Option |
-| ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------ | ------ |
-| Baumberger | Niklaus   |                  |              |              |              | Spec   | JS     |
-| Benak      | Alexander | Charts           | [öffnen][12] |              |              | Spec   | Python |
-| Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] |              |              | Spec   | JS     |
-| Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] |              |              | Spec   | JS     |
-| Fantino    | Diego     |                  |              |              |              | Spec   | Python |
-| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | Spec   | JS     |
-| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] |              | Coding | JS     |
-| Idahosa    | Morris    |                  |              |              |              | Spec   | JS     |
-| Janik      | Julian    |                  |              |              |              | Spec   |        |
-| Joksimovic | Marko     |                  |              |              |              | Spec   | Python |
-| Slavkovic  | Filip     | Weather App      | [öffnen][21] |              |              | Spec   | React  |
-| Stupar     | Kevin     | Nonogramm        | [öffnen][22] |              |              | Spec   |        |
-| Tarlos     | Andras    | Face Detector    | [öffnen][23] |              |              | Spec   | React  |
-| Viruthiyel | Vivek     | 2048             | [öffnen][24] |              |              | Spec   |        |
-| Vogel      | Niklas    |                  |              |              |              | Spec   | JS     |
+| Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Status        | Option |
+| ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------- | ------ |
+| Baumberger | Niklaus   |                  |              |              |              | <r>Spec  </r> | JS     |
+| Benak      | Alexander | Charts           | [öffnen][12] |              |              | <o>Spec  </o> | Python |
+| Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] |              |              | <o>Spec  </o> | JS     |
+| Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] |              |              | <o>Spec  </o> | JS     |
+| Fantino    | Diego     |                  |              |              |              | <r>Spec  </r> | Python |
+| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | <o>Spec  </o> | JS     |
+| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] |              | <g>Coding</g> | JS     |
+| Idahosa    | Morris    |                  |              |              |              | <r>Spec  </r> | JS     |
+| Janik      | Julian    |                  |              |              |              | <r>Spec  </r> |        |
+| Joksimovic | Marko     |                  |              |              |              | <r>Spec  </r> | Python |
+| Slavkovic  | Filip     | Weather App      | [öffnen][21] |              |              | <o>Spec  </o> | React  |
+| Stupar     | Kevin     | Nonogramm        | [öffnen][22] |              |              | <o>Spec  </o> |        |
+| Tarlos     | Andras    | Face Detector    | [öffnen][23] |              |              | <o>Spec  </o> | React  |
+| Viruthiyel | Vivek     | 2048             | [öffnen][24] |              |              | <o>Spec  </o> |        |
+| Vogel      | Niklas    |                  |              |              |              | <r>Spec  </r> | JS     |
 
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
                                                               
 [12]: doc/S4F-Projekt_Benak_Alexander_Charts.pdf
 [13]: doc/S4F-Projekt_Nadim_Bhatti_Gabriel_Egli_Stadt-Land-Fluss.pdf
