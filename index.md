@@ -18,9 +18,13 @@ title:  "Home"
 | Interim | Zwischenstand mitgeteilt           |
 | Done    | Abschlusspräsentation durchgeführt |
 
-| Option | Beschreibung                       |
-| ------ | ---------------------------------- |
-| JS     | HTML/CSS/JS (analog wie SF4-Demo)  |
-| React  | React (analog wie Tic-Tac-Toe App) |
-| Python | Django (analog wie Polls App)      |
-| Mix    | ein Mix davon                      |
+| Option | Beschreibung                            |
+| ------ | --------------------------------------- |
+| JS     | HTML/CSS/JS (analog wie [SF4-Demo][1])  |
+| React  | React (analog wie [Tic-Tac-Toe App][2]) |
+| Python | Django (analog wie [Polls App][3])      |
+| Mix    | ein Mix davon                           |
+
+[1]: https://infinite-eyrie-25308.herokuapp.com/
+[2]: https://immense-ridge-84979.herokuapp.com/
+[3]: https://boiling-river-23927.herokuapp.com/
