@@ -16,7 +16,7 @@ layout: home
 
 | Status  | Beschreibung                       |
 | ------- | ---------------------------------- |
-| Spec    | Doku einreichen                    |
+| Spec    | Doku einreichen, prüfen            |
 | Coding  | Projekt genehmigt                  |
 | Interim | Zwischenstand mitgeteilt           |
 | Done    | Abschlusspräsentation durchgeführt |

@@ -10,8 +10,8 @@ title:  "IM20b"
 | Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] |              |              | Spec   | JS     |
 | Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] |              |              | Spec   | JS     |
 | Fantino    | Diego     |                  |              |              |              | Spec   | Python |
-| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] |              |              | Spec   | React  |
-| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] |              |              | Spec   | JS     |
+| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | Spec   | JS     |
+| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] |              | Coding | JS     |
 | Idahosa    | Morris    |                  |              |              |              | Spec   | JS     |
 | Janik      | Julian    |                  |              |              |              | Spec   |        |
 | Joksimovic | Marko     |                  |              |              |              | Spec   | Python |
@@ -35,3 +35,8 @@ title:  "IM20b"
 [22]: doc/S4F-Projekt_Kevin_Stupar_Nonogramm.pdf
 [23]: doc/S4F-Projekt_Andras_Tarlos_Face_Detector.pdf
 [24]: doc/S4F-Projekt_Vivek_Viruthiyel_2048.pdf
+
+[36]: https://github.com/bzz-fgict/s4f-project-Medox36
+[37]: https://github.com/bzz-fgict/s4f-project-MoustafaHawii
+
+[56]: https://giuntini.ch/projects
