@@ -3,14 +3,14 @@ layout: post
 title:  "IM20a"
 ---
 
-| Name        | Vorname   | Titel          | Doku            | Repo URL        | Live URL        | Status | Option |
+| Name        | Vorname   | Titel          | Doku         | Repo URL     | Live URL     | Status | Option |
 | ----------- | --------- | -------------- | ------------ | ------------ | ------------ | ------ | ------ |
 | Arifi       | Tiziano   |                |              |              |              | Spec   |        |
 | Bengl       | Daniel    | Crossyroad     | [öffnen][12] | [öffnen][32] |              | Coding | JS     |
-| Camenisch   | Nick      | Monopoly       | [öffnen][13] |              |              | Spec   |        |
-| Degiorgi    | Stefano   |                | [öffnen][14] |              |              | Spec   |        |
-| Feroldi     | Francesco | Schach         | [öffnen][15] |              |              | Spec   | JS     |
-| Forster     | Nick      | Monopoly       | [öffnen][16] |              |              | Spec   |        |
+| Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] |              | Coding | JS     |
+| Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] |              | Spec   | JS     |
+| Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] |              | Coding | JS     |
+| Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] |              | Coding | JS     |
 | Häring      | Ivan      | Snake          | [öffnen][17] |              |              | Spec   | JS     |
 | Hunziker    | Chris     |                | [öffnen][18] |              |              | Spec   | JS     |
 | Jeyaranjan  | Jenith    |                | [öffnen][19] |              |              | Spec   | JS     |
@@ -41,3 +41,7 @@ title:  "IM20a"
 
 
 [32]: https://github.com/CuddlyBunion341/crossy-road-clone
+[33]: https://github.com/bzz-fgict/s4f-project-Nickf-pdf
+[34]: https://github.com/bzz-fgict/s4f-project-StefanoBZZ
+[35]: https://github.com/bzz-fgict/s4f-project-Francesco263
+[36]: https://github.com/bzz-fgict/s4f-project-Nickf-pdf
