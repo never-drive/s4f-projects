@@ -23,7 +23,7 @@ email: daniel.fahrni@bzz.ch
 description: >- # this means to ignore newlines until "baseurl:"
   „Wer aufhört Fehler zu machen, lernt nichts mehr dazu.“ (Theodor Fontane, deutscher Schriftsteller, 1819 - 1898)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://never-drive.github.io/s4f-projects/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  never-drive
 
 # Build settings
