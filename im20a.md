@@ -7,10 +7,10 @@ title:  "IM20a"
 | ----------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------- | ------ |
 | Arifi       | Tiziano   | Tetris Game    | [öffnen][11] | [öffnen][31] | [öffnen][51] | <g>Coding</g> | JS     |
 | Bengl       | Daniel    | Crossy Road    | [öffnen][12] | [öffnen][32] | [öffnen][52] | <g>Coding</g> | JS     |
-| Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] |              | <g>Coding</g> | JS     |
+| Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] | [öffnen][53] | <g>Coding</g> | JS     |
 | Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] |              | <g>Coding</g> | JS     |
-| Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] |              | <g>Coding</g> | JS     |
-| Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] |              | <g>Coding</g> | JS     |
+| Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] | [öffnen][55] | <g>Coding</g> | JS     |
+| Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] | [öffnen][56] | <g>Coding</g> | JS     |
 | Häring      | Ivan      | Snake          | [öffnen][17] | [öffnen][37] |              | <g>Coding</g> | JS     |
 | Hunziker    | Chris     | Sudoku App     | [öffnen][18] | [öffnen][38] |              | <g>Coding</g> | JS     |
 | Jeyaranjan  | Jenith    | Games Website  | [öffnen][19] | [öffnen][39] | [öffnen][59] | <g>Coding</g> | JS     |
@@ -61,6 +61,10 @@ g { color: Green }
 
 [51]: https://protected-savannah-26957.herokuapp.com/
 [52]: https://cuddlybunion341.github.io/crossy-road-clone/public/
+[53]: https://monopoly-threejs.netlify.app/
+
+[55]: https://s4f-projekt-schach.netlify.app/
+[56]: https://monopoly-threejs.netlify.app/
 
 [59]: https://jenith-jeyaranjan.github.io/Script4Fun_Projekt/
 
