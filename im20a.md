@@ -12,9 +12,9 @@ title:  "IM20a"
 | Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] | [öffnen][55] | <g>Coding</g> | JS     |
 | Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] | [öffnen][56] | <g>Coding</g> | JS     |
 | Häring      | Ivan      | Snake          | [öffnen][17] | [öffnen][37] |              | <g>Coding</g> | JS     |
-| Hunziker    | Chris     | Sudoku App     | [öffnen][18] | [öffnen][38] |              | <g>Coding</g> | JS     |
+| Hunziker    | Chris     | Sudoku App     | [öffnen][18] | [öffnen][38] | [öffnen][58] | <g>Coding</g> | JS     |
 | Jeyaranjan  | Jenith    | Games Website  | [öffnen][19] | [öffnen][39] | [öffnen][59] | <g>Coding</g> | JS     |
-| Jovanovic   | Philip    | Schach Engine  | [öffnen][20] | [öffnen][40] |              | <g>Coding</g> | JS     |
+| Jovanovic   | Philip    | Schach Engine  | [öffnen][20] | [öffnen][40] | [öffnen][60] | <g>Coding</g> | JS     |
 | Korona      | Jakub     | Space Lander   | [öffnen][21] | [öffnen][41] |              | <g>Coding</g> | React  |
 | Leuenberger | Nimai     | Pacman         | [öffnen][22] | [öffnen][42] | [öffnen][62] | <g>Coding</g> | React  |
 | Rybarczyk   | Phailin   | Ping-Pong Game | [öffnen][23] | [öffnen][43] |              | <g>Coding</g> | JS     |
@@ -50,9 +50,9 @@ g { color: Green }
 [35]: https://github.com/bzz-fgict/s4f-project-Francesco263
 [36]: https://github.com/bzz-fgict/s4f-project-Nickf-pdf
 [37]: https://github.com/ivanpog03
-[38]: https://github.com/aluayx/sudoku
+[38]: https://github.com/hunchr/sudoku
 [39]: https://github.com/JeJe0205/Gaming-Website
-[40]: https://github.com/bzz-fgict/s4f-project-PhilipJovanovic00
+[40]: https://github.com/PhilipJovanovic00/ChessEngine
 [41]: https://github.com/bzz-fgict/s4f-project-JakubUee
 [42]: https://github.com/NimaiLeuenberger/pacman
 [43]: https://github.com/phailinr/PingPong-Game
@@ -66,7 +66,9 @@ g { color: Green }
 [55]: https://s4f-projekt-schach.netlify.app/
 [56]: https://monopoly-threejs.netlify.app/
 
+[58]: https://aluay.com/sudoku/
 [59]: https://jenith-jeyaranjan.github.io/Script4Fun_Projekt/
+[60]: https://philipjovanovic00.github.io/ChessEngine/
 
 [62]: https://pacman-bighands.netlify.app/
 
