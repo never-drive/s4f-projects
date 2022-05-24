@@ -9,10 +9,10 @@ title:  "IM20b"
 | Benak      | Alexander | Charts           | [öffnen][12] | [öffnen][32] |              | <g>Coding</g> | Python |
 | Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] | [öffnen][33] |              | <g>Coding</g> | Mix    |
 | Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] | [öffnen][34] |              | <g>Coding</g> | Mix    |
-| Fantino    | Diego     | Toolbox Projekt  | [öffnen][15] | [öffnen][35] |              | <g>Coding</g> | Python |
+| Fantino    | Diego     | Toolbox Projekt  | [öffnen][15] | [öffnen][35] | [öffnen][55] | <g>Coding</g> | Python |
 | Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | <g>Coding</g> | JS     |
 | Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] |              | <g>Coding</g> | JS     |
-| Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              | <o>Spec  </o> | JS     |
+| Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              | <g>Coding</g> | JS     |
 | Janik      | Julian    | Snake            | [öffnen][19] | [öffnen][39] |              | <o>Spec  </o> | JS     |
 | Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              | <g>Coding</g> | Python |
 | Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] |              | <g>Coding</g> | React  |
@@ -58,6 +58,7 @@ g { color: Green }
 [44]: https://github.com/bzz-fgict/s4f-project-vivek698.git
 [45]: https://github.com/Nukufel/PongJS
 
+[55]: https://dfantino55.github.io/S4F/
 [56]: https://projects.giuntini.ch/
 
 [65]: https://nukufel.github.io/PongJS/
