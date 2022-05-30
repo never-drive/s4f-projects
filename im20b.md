@@ -3,28 +3,29 @@ layout: post
 title:  "IM20b"
 ---
 
-| Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Status        | Option |
-| ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------- | ------ |
-| Baumberger | Niklaus   | Flappy Bird      | [öffnen][11] |              |              | <g>Coding</g> | JS     |
-| Benak      | Alexander | Charts           | [öffnen][12] | [öffnen][32] |              | <g>Coding</g> | Python |
-| Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] | [öffnen][33] |              | <g>Coding</g> | Mix    |
-| Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] | [öffnen][34] |              | <g>Coding</g> | Mix    |
-| Fantino    | Diego     | Toolbox Projekt  | [öffnen][15] | [öffnen][35] | [öffnen][55] | <g>Coding</g> | Python |
-| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | <g>Coding</g> | JS     |
-| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] |              | <g>Coding</g> | JS     |
-| Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              | <g>Coding</g> | JS     |
-| Janik      | Julian    | Snake            | [öffnen][19] | [öffnen][39] |              | <o>Spec  </o> | JS     |
-| Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              | <g>Coding</g> | Python |
-| Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] |              | <g>Coding</g> | React  |
-| Stupar     | Kevin     | Nonogramm        | [öffnen][22] | [öffnen][42] |              | <g>Coding</g> | JS     |
-| Tarlos     | Andras    | Face Detector    | [öffnen][23] |              |              | <g>Coding</g> | Mix    |
-| Viruthiyel | Vivek     | Game 2048        | [öffnen][24] | [öffnen][44] |              | <g>Coding</g> | JS     |
-| Vogel      | Niklas    | Pong Page        | [öffnen][25] | [öffnen][45] | [öffnen][65] | <g>Coding</g> | JS     |
+| Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option |
+| ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------ |
+| Baumberger | Niklaus   | Flappy Bird      | [öffnen][11] |              |              |              | <g>Coding</g>  | JS     |
+| Benak      | Alexander | Charts           | [öffnen][12] | [öffnen][32] |              | [öffnen][72] | <g>Coding</g>  | Python |
+| Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] | [öffnen][33] |              | [öffnen][73] | <g>Coding</g>  | Mix    |
+| Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] | [öffnen][34] |              | [öffnen][74] | <g>Coding</g>  | Mix    |
+| Fantino    | Diego     | Toolbox Projekt  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <g>Coding</g>  | Python |
+| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <v>Interim</v> | JS     |
+| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <v>Interim</v> | JS     |
+| Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              |              | <g>Coding</g>  | JS     |
+| Janik      | Julian    | Snake            | [öffnen][19] | [öffnen][39] |              |              | <o>Spec  </o>  | JS     |
+| Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              |              | <g>Coding</g>  | Python |
+| Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] |              | [öffnen][81] | <g>Coding</g>  | React  |
+| Stupar     | Kevin     | Nonogramm        | [öffnen][22] | [öffnen][42] |              | [öffnen][82] | <v>Interim</v> | JS     |
+| Tarlos     | Andras    | Face Detector    | [öffnen][23] |              |              |              | <g>Coding</g>  | Mix    |
+| Viruthiyel | Vivek     | Game 2048        | [öffnen][24] | [öffnen][44] |              | [öffnen][84] | <g>Coding</g>  | JS     |
+| Vogel      | Niklas    | Pong Page        | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <v>Interim</v> | JS     |
 
 <style>
 r { color: Red }
 o { color: Orange }
 g { color: Green }
+v { color: Darkviolet }
 </style>
                                                               
 [11]: doc/S4F-Projekt_Niklaus_Baumberger_Morris_Idahosa.pdf
@@ -44,8 +45,8 @@ g { color: Green }
 [25]: doc/S4F-Projekt_Niklas_Vogel.pdf
 
 [32]: https://github.com/bzz-fgict/s4f-project-benaka17
-[33]: https://github.com/bzz-fgict/s4f-project-02Gqbriel
-[34]: https://github.com/bzz-fgict/s4f-project-02Gqbriel
+[33]: https://github.com/02Gqbriel/sff-stadtlandfluss
+[34]: https://github.com/02Gqbriel/sff-stadtlandfluss
 [35]: https://github.com/DFantino55/S4F
 [36]: https://github.com/bzz-fgict/s4f-project-Medox36
 [37]: https://github.com/bzz-fgict/s4f-project-MoustafaHawii
@@ -60,5 +61,19 @@ g { color: Green }
 
 [55]: https://dfantino55.github.io/S4F/
 [56]: https://projects.giuntini.ch/
+[57]: https://fictional-tribble-d117d0c0.pages.github.io/
 
 [65]: https://nukufel.github.io/PongJS/
+
+[72]: slides/S4F-Folien_Alexander_Benak.pdf
+[73]: slides/S4F-Folien_Nadim_Bhatti_Gabriel_Egli.pdf
+[74]: slides/S4F-Folien_Nadim_Bhatti_Gabriel_Egli.pdf
+[75]: slides/S4F-Folien_Diego_Fantino.pdf
+[76]: slides/S4F-Folien_Lorenzo_Giuntini.pdf
+[77]: slides/S4F-Folien_Moustafa_Hawi.pdf
+
+[81]: slides/S4F-Folien_Filip_Slavkovic.pdf
+[82]: slides/S4F-Folien_Kevin_Stupar.pdf
+
+[84]: slides/S4F-Folien_Vivek_Viruthiyel.pdf
+[85]: slides/S4F-Folien_Niklas_Vogel.pdf
