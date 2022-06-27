@@ -6,19 +6,19 @@ title:  "IM20b"
 | Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option |
 | ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------ |
 | Baumberger | Niklaus   | Flappy Bird      | [öffnen][11] |              |              |              | <v>Interim</v> | JS     |
-| Benak      | Alexander | Charts           | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <v>Interim</v> | Python |
+| Benak      | Alexander | Self-Driving-Car | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <g>Done<g/>    | Python |
 | Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <v>Interim</v> | Mix    |
 | Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <v>Interim</v> | Mix    |
 | Fantino    | Diego     | Toolbox Projekt  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <v>Interim</v> | Python |
 | Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <v>Interim</v> | JS     |
-| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <v>Interim</v> | JS     |
+| Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <g>Done<g/>    | JS     |
 | Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              |              | <v>Interim</v> | JS     |
 | Janik      | Julian    | Snake            | [öffnen][19] | [öffnen][39] |              |              | <o>Spec</o>    | JS     |
 | Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              |              | <v>Interim</v> | Python |
-| Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <v>Interim</v> | React  |
-| Stupar     | Kevin     | Nonogramm        | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <v>Interim</v> | JS     |
+| Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <g>Done<g/>    | React  |
+| Stupar     | Kevin     | Nonogramm        | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <g>Done<g/>    | JS     |
 | Tarlos     | Andras    | Face Detector    | [öffnen][23] | [öffnen][43] |              |              | <v>Interim</v> | Mix    |
-| Viruthiyel | Vivek     | Game 2048        | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <v>Interim</v> | JS     |
+| Viruthiyel | Vivek     | Game 2048        | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <g>Done<g/>    | JS     |
 | Vogel      | Niklas    | Pong Page        | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <v>Interim</v> | JS     |
 
 <style>
@@ -44,7 +44,7 @@ v { color: Darkviolet }
 [24]: doc/S4F-Projekt_Vivek_Viruthiyel_2048.pdf
 [25]: doc/S4F-Projekt_Niklas_Vogel.pdf
 
-[32]: https://github.com/bzz-fgict/s4f-project-benaka17
+[32]: https://github.com/benaka17/Self-Driving-Car
 [33]: https://github.com/02Gqbriel/sff-stadtlandfluss
 [34]: https://github.com/02Gqbriel/sff-stadtlandfluss
 [35]: https://github.com/DFantino55/S4F

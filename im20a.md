@@ -6,20 +6,20 @@ title:  "IM20a"
 | Name        | Vorname   | Titel          | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option |
 | ----------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------ |
 | Arifi       | Tiziano   | Tetris Game    | [öffnen][11] | [öffnen][31] | [öffnen][51] | [öffnen][71] | <v>Interim</v> | JS     |
-| Bengl       | Daniel    | Crossy Road    | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <v>Interim</v> | JS     |
-| Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <v>Interim</v> | JS     |
+| Bengl       | Daniel    | Crossy Road    | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <g>Done<g/>    | JS     |
+| Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <g>Done<g/>    | JS     |
 | Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <v>Interim</v> | JS     |
 | Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <v>Interim</v> | JS     |
-| Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <v>Interim</v> | JS     |
+| Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <g>Done<g/>    | JS     |
 | Häring      | Ivan      | Snake          | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <v>Interim</v> | Python |
 | Hunziker    | Chris     | Sudoku App     | [öffnen][18] | [öffnen][38] | [öffnen][58] | [öffnen][78] | <v>Interim</v> | JS     |
 | Jeyaranjan  | Jenith    | Games Website  | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <v>Interim</v> | JS     |
-| Jovanovic   | Philip    | Schach Engine  | [öffnen][20] | [öffnen][40] | [öffnen][60] | [öffnen][80] | <v>Interim</v> | JS     |
+| Jovanovic   | Philip    | Schach Engine  | [öffnen][20] | [öffnen][40] | [öffnen][60] | [öffnen][80] | <g>Done<g/>    | JS     |
 | Korona      | Jakub     | Space Lander   | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <v>Interim</v> | React  |
 | Leuenberger | Nimai     | Pacman         | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <v>Interim</v> | React  |
 | Rybarczyk   | Phailin   | Ping-Pong Game | [öffnen][23] | [öffnen][43] |              | [öffnen][83] | <v>Interim</v> | JS     |
-| Veljkovic   | Andrej    | Snake          | [öffnen][25] | [öffnen][45] | [öffnen][65] |              | <g>Coding</g>  | JS     |
-| Witte       | Hermann   | Social Network | [öffnen][26] | [öffnen][46] | [öffnen][66] | [öffnen][86] | <v>Interim</v> | React  |
+| Veljkovic   | Andrej    | Snake          | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <v>Interim</v> | JS     |
+| Witte       | Hermann   | Social Network | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <g>Done<g/>    | React  |
 
 <style>
 r { color: Red }
@@ -41,8 +41,8 @@ v { color: Darkviolet }
 [21]: doc/S4F-Projekt_Jakub_Korona.pdf
 [22]: doc/S4F-Projekt_Nimai_Leuenberger.pdf
 [23]: doc/S4F-Projekt_Phailin_Rybarczyk_PingPong-Game.pdf
-[25]: doc/S4F-Projekt_Andrej_Veljkovic_Snake.pdf         
-[26]: doc/S4F-Projekt_Hermann_Witte.pdf
+[24]: doc/S4F-Projekt_Andrej_Veljkovic_Snake.pdf         
+[25]: doc/S4F-Projekt_Hermann_Witte.pdf
 
 [31]: https://github.com/bzz-fgict/s4f-project-Tizari
 [32]: https://github.com/CuddlyBunion341/crossy-road-clone
@@ -57,9 +57,8 @@ v { color: Darkviolet }
 [41]: https://github.com/bzz-fgict/s4f-project-JakubUee
 [42]: https://github.com/NimaiLeuenberger/pacman
 [43]: https://github.com/phailinr/PingPong-Game
-
-[45]: https://github.com/bzz-fgict/s4f-project-veljkovica
-[46]: https://github.com/Reconnact/s4f-project
+[44]: https://github.com/bzz-fgict/s4f-project-veljkovica
+[45]: https://github.com/Reconnact/s4f-project
 
 [51]: https://protected-savannah-26957.herokuapp.com/
 [52]: https://cuddlybunion341.github.io/crossy-road-clone/public/
@@ -74,8 +73,8 @@ v { color: Darkviolet }
 [61]: https://space-lander.netlify.app/
 [62]: https://pacman-bighands.netlify.app/
 
-[65]: https://snakescript4fun.netlify.app/
-[66]: http://social-ims.alpha-lab.net/
+[64]: https://snakescript4fun.netlify.app/
+[65]: http://social-ims.alpha-lab.net/
 
 [71]: slides/S4F-Folien_Tiziano_Arifi.pdf
 [72]: slides/S4F-Folien_Daniel_Bengl.pdf
@@ -90,5 +89,5 @@ v { color: Darkviolet }
 [81]: slides/S4F-Folien_Jakub_Korona.pdf
 [82]: slides/S4F-Folien_Nimai_Leuenberger.pdf
 [83]: slides/S4F-Folien_Phailin_Rybarczyk_PingPong-Game.pdf
-
-[86]: slides/S4F-Folien_Hermann_Witte.pdf
+[84]: slides/S4F-Folien_Andrej_Veljkovic_Snake.pdf
+[85]: slides/S4F-Folien_Hermann_Witte.pdf

@@ -11,12 +11,19 @@ title:  "Home"
 | [IM20a](im20a)  | 2022 |
 | [IM20b](im20b)  | 2022 |
 
-| Status  | Beschreibung                       |
-| ------- | ---------------------------------- |
-| Spec    | Doku einreichen, prüfen            |
-| Coding  | Projekt genehmigt                  |
-| Interim | Zwischenstand mitgeteilt           |
-| Done    | Abschlusspräsentation durchgeführt |
+| Status         | Beschreibung                       |
+| -------------- | ---------------------------------- |
+| <o>Spec</o>    | Doku einreichen, prüfen            |
+| <r>Coding</r>  | Projekt genehmigt                  |
+| <v>Interim</v> | Zwischenstand mitgeteilt           |
+| <g>Done<g/>    | Abschlusspräsentation durchgeführt |
+
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+v { color: Darkviolet }
+</style>
 
 | Option | Beschreibung                            |
 | ------ | --------------------------------------- |
