@@ -13,7 +13,6 @@ title:  "IM20b"
 | Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <g>Done<g/>    | JS     |
 | Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <g>Done<g/>    | JS     |
 | Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              |              | <g>Done<g/>    | JS     |
-| Janik      | Julian    | Snake            | [öffnen][19] | [öffnen][39] |              |              | <o>Spec</o>    | JS     |
 | Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              |              | <g>Done<g/>    | Python |
 | Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <g>Done<g/>    | React  |
 | Stupar     | Kevin     | Nonogramm        | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <g>Done<g/>    | JS     |
@@ -36,7 +35,6 @@ v { color: Darkviolet }
 [16]: doc/S4F-Projekt_Lorenzo_Giuntini_Projektwebseite.pdf
 [17]: doc/S4F-Projekt_Moustafa_Hawi_Pomodoro.pdf
 [18]: doc/S4F-Projekt_Niklaus_Baumberger_Morris_Idahosa.pdf
-[19]: doc/S4F-Projekt_Julian_Janik.pdf
 [20]: doc/S4F-Projekt_Marko_Joksimovic.pdf
 [21]: doc/S4F-Projekt_Filip_Slavkovic_Weatherapp.pdf
 [22]: doc/S4F-Projekt_Kevin_Stupar_Nonogramm.pdf
@@ -51,7 +49,6 @@ v { color: Darkviolet }
 [36]: https://github.com/bzz-fgict/s4f-project-Medox36
 [37]: https://github.com/bzz-fgict/s4f-project-MoustafaHawii
 
-[39]: https://github.com/Julian20048/Porjekts4f.git
 [40]: https://github.com/JoksimovicM/CarBlog
 [41]: https://github.com/bzz-fgict/s4f-project-filipmornshuel
 [42]: https://github.com/bzz-fgict/s4f-project-pantherinblack
