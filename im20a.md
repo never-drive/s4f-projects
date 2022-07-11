@@ -5,20 +5,20 @@ title:  "IM20a"
 
 | Name        | Vorname   | Titel          | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option |
 | ----------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------ |
-| Arifi       | Tiziano   | Tetris Game    | [öffnen][11] | [öffnen][31] | [öffnen][51] | [öffnen][71] | <v>Interim</v> | JS     |
+| Arifi       | Tiziano   | Tetris Game    | [öffnen][11] | [öffnen][31] | [öffnen][51] | [öffnen][71] | <g>Done<g/>    | JS     |
 | Bengl       | Daniel    | Crossy Road    | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <g>Done<g/>    | JS     |
 | Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <g>Done<g/>    | JS     |
-| Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <v>Interim</v> | JS     |
+| Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <g>Done<g/>    | JS     |
 | Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <g>Done<g/>    | JS     |
 | Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <g>Done<g/>    | JS     |
-| Häring      | Ivan      | Snake          | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <v>Interim</v> | Python |
+| Häring      | Ivan      | Snake          | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <g>Done<g/>    | Python |
 | Hunziker    | Chris     | Sudoku App     | [öffnen][18] | [öffnen][38] | [öffnen][58] | [öffnen][78] | <g>Done<g/>    | JS     |
 | Jeyaranjan  | Jenith    | Games Website  | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <g>Done<g/>    | JS     |
 | Jovanovic   | Philip    | Schach Engine  | [öffnen][20] | [öffnen][40] | [öffnen][60] | [öffnen][80] | <g>Done<g/>    | JS     |
 | Korona      | Jakub     | Space Lander   | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <g>Done<g/>    | React  |
-| Leuenberger | Nimai     | Pacman         | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <v>Interim</v> | React  |
-| Rybarczyk   | Phailin   | Ping-Pong Game | [öffnen][23] | [öffnen][43] |              | [öffnen][83] | <v>Interim</v> | JS     |
-| Veljkovic   | Andrej    | Snake          | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <v>Interim</v> | JS     |
+| Leuenberger | Nimai     | Pacman         | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <g>Done<g/>    | React  |
+| Rybarczyk   | Phailin   | Ping-Pong Game | [öffnen][23] | [öffnen][43] |              | [öffnen][83] | <g>Done<g/>    | JS     |
+| Veljkovic   | Andrej    | Snake          | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <g>Done<g/>    | JS     |
 | Witte       | Hermann   | Social Network | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <g>Done<g/>    | React  |
 
 <style>
