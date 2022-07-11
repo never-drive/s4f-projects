@@ -9,13 +9,13 @@ title:  "IM20a"
 | Bengl       | Daniel    | Crossy Road    | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <g>Done<g/>    | JS     |
 | Camenisch   | Nick      | Monopoly       | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <g>Done<g/>    | JS     |
 | Degiorgi    | Stefano   | Black-Jack     | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <v>Interim</v> | JS     |
-| Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <v>Interim</v> | JS     |
+| Feroldi     | Francesco | Schach         | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <g>Done<g/>    | JS     |
 | Forster     | Nick      | Monopoly       | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <g>Done<g/>    | JS     |
 | Häring      | Ivan      | Snake          | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <v>Interim</v> | Python |
-| Hunziker    | Chris     | Sudoku App     | [öffnen][18] | [öffnen][38] | [öffnen][58] | [öffnen][78] | <v>Interim</v> | JS     |
-| Jeyaranjan  | Jenith    | Games Website  | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <v>Interim</v> | JS     |
+| Hunziker    | Chris     | Sudoku App     | [öffnen][18] | [öffnen][38] | [öffnen][58] | [öffnen][78] | <g>Done<g/>    | JS     |
+| Jeyaranjan  | Jenith    | Games Website  | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <g>Done<g/>    | JS     |
 | Jovanovic   | Philip    | Schach Engine  | [öffnen][20] | [öffnen][40] | [öffnen][60] | [öffnen][80] | <g>Done<g/>    | JS     |
-| Korona      | Jakub     | Space Lander   | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <v>Interim</v> | React  |
+| Korona      | Jakub     | Space Lander   | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <g>Done<g/>    | React  |
 | Leuenberger | Nimai     | Pacman         | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <v>Interim</v> | React  |
 | Rybarczyk   | Phailin   | Ping-Pong Game | [öffnen][23] | [öffnen][43] |              | [öffnen][83] | <v>Interim</v> | JS     |
 | Veljkovic   | Andrej    | Snake          | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <v>Interim</v> | JS     |

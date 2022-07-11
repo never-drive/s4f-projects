@@ -5,21 +5,21 @@ title:  "IM20b"
 
 | Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option |
 | ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------ |
-| Baumberger | Niklaus   | Flappy Bird      | [öffnen][11] |              |              |              | <v>Interim</v> | JS     |
+| Baumberger | Niklaus   | Flappy Bird      | [öffnen][11] |              |              |              | <g>Done<g/>    | JS     |
 | Benak      | Alexander | Self-Driving-Car | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <g>Done<g/>    | Python |
-| Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <v>Interim</v> | Mix    |
-| Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <v>Interim</v> | Mix    |
-| Fantino    | Diego     | Toolbox Projekt  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <v>Interim</v> | Python |
-| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <v>Interim</v> | JS     |
+| Bhatti     | Nadim     | Stadt-Land-Fluss | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <g>Done<g/>    | Mix    |
+| Egli       | Gabriel   | Stadt-Land-Fluss | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <g>Done<g/>    | Mix    |
+| Fantino    | Diego     | Toolbox Projekt  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <g>Done<g/>    | Python |
+| Giuntini   | Lorenzo   | Projektwebseite  | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <g>Done<g/>    | JS     |
 | Hawi       | Moustafa  | Pomodoro         | [öffnen][17] | [öffnen][37] | [öffnen][57] | [öffnen][77] | <g>Done<g/>    | JS     |
-| Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              |              | <v>Interim</v> | JS     |
+| Idahosa    | Morris    | Flappy Bird      | [öffnen][18] |              |              |              | <g>Done<g/>    | JS     |
 | Janik      | Julian    | Snake            | [öffnen][19] | [öffnen][39] |              |              | <o>Spec</o>    | JS     |
-| Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              |              | <v>Interim</v> | Python |
+| Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              |              | <g>Done<g/>    | Python |
 | Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <g>Done<g/>    | React  |
 | Stupar     | Kevin     | Nonogramm        | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <g>Done<g/>    | JS     |
-| Tarlos     | Andras    | Face Detector    | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <v>Interim</v> | Mix    |
+| Tarlos     | Andras    | Face Detector    | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <g>Done<g/>    | Mix    |
 | Viruthiyel | Vivek     | Game 2048        | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <g>Done<g/>    | JS     |
-| Vogel      | Niklas    | Pong Page        | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <v>Interim</v> | JS     |
+| Vogel      | Niklas    | Pong Page        | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <g>Done<g/>    | JS     |
 
 <style>
 r { color: Red }
