@@ -17,7 +17,7 @@ title:  "IM20b"
 | Joksimovic | Marko     | Blogseite        | [öffnen][20] | [öffnen][40] |              |              | <v>Interim</v> | Python |
 | Slavkovic  | Filip     | Weather App      | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <g>Done<g/>    | React  |
 | Stupar     | Kevin     | Nonogramm        | [öffnen][22] | [öffnen][42] | [öffnen][62] | [öffnen][82] | <g>Done<g/>    | JS     |
-| Tarlos     | Andras    | Face Detector    | [öffnen][23] | [öffnen][43] |              |              | <v>Interim</v> | Mix    |
+| Tarlos     | Andras    | Face Detector    | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <v>Interim</v> | Mix    |
 | Viruthiyel | Vivek     | Game 2048        | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <g>Done<g/>    | JS     |
 | Vogel      | Niklas    | Pong Page        | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <v>Interim</v> | JS     |
 
@@ -68,7 +68,7 @@ v { color: Darkviolet }
 
 [61]: https://6293b47227be7e6b41f7a1c4--subtle-crostata-d0a150.netlify.app/
 [62]: https://bzz-fgict.github.io/s4f-project-pantherinblack/
-
+[63]: https://team-at-flask-camera-app-master-gy7rksaagq-ew.a.run.app/
 [64]: https://vivek698.github.io/Game2048/
 [65]: https://nukufel.github.io/PongJS/
 
