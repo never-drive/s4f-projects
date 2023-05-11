@@ -32,11 +32,7 @@ v { color: Darkviolet }
 | React    | React (analog wie [Tic-Tac-Toe App][2])    |
 | Python   | Django (analog wie [Polls App][3])         |
 | Mix      | ein Mix davon (mit Fontend und Backend)    |
-| Three.js | [JS 3D Library][5]                         |
-| Next.js  | [React Framework for the Web by Vercel][6] |
 
 [1]: https://never-drive.github.io/s4f-demo/
 [2]: https://tic-tac-toe-game-eadrfabjmq-oa.a.run.app/
 [3]: https://polls-app-eadrfabjmq-oa.a.run.app/
-[5]: https://threejs.org/
-[6]: https://nextjs.org/
