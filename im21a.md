@@ -6,10 +6,10 @@ title:  "IM21a"
 | Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option |
 | ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------ |
 | Amon       | Shahin    |                  |              |              |              |              |                |        |
-| Antic      | Nikola    | Swiss Transport  | [öffnen][12] |              |              |              | <r>Coding</r>  |        |
+| Antic      | Nikola    | Swiss Transport  | [öffnen][12] |              |              |              | <r>Coding</r>  | React  |
 | Blom       | Lucas     |                  |              |              |              |              |                |        |
-| Brändle    | Ben       | Flappy-Bird      | [öffnen][14] |              |              |              | <r>Coding</r>  |        |
-| Fischer    | Nils     | Jump and Run Game | [öffnen][15] |              |              |              | <r>Coding</r>  |        |
+| Brändle    | Ben       | Flappy-Bird      | [öffnen][14] |              |              |              | <r>Coding</r>  | Next.js |
+| Fischer    | Nils     | Jump and Run Game | [öffnen][15] |              |              |              | <r>Coding</r>  | Mix    |
 | Hindi      | Sami      |                  |              |              |              |              |                |        |
 | Kochkarov  | Nikita    |                  |              |              |              |              |                |        |
 | Lacoste    | Miro      |                  |              |              |              |              |                |        |
@@ -17,11 +17,11 @@ title:  "IM21a"
 | Logendran | Lambotharan |                 |              |              |              |              |                |        |
 | Meier      | Fernando  |                  |              |              |              |              |                |        |
 | Obrist     | Dominic   |                  |              |              |              |              |                |        |
-| Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <r>Coding</r>  |        |
+| Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <r>Coding</r>  | Three.js |
 | Reindl     | Ava       |                  |              |              |              |              |                |        |
-| Spina      | Marco     | The Lounge       | [öffnen][25] |              |              |              | <r>Coding</r>  |        |
+| Spina      | Marco     | The Lounge       | [öffnen][25] |              |              |              | <r>Coding</r>  | React  |
 | Trachsel   | Robin     |                  |              |              |              |              |                |        |
-| Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] |              | <r>Coding</r>  |        |
+| Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] |              | <r>Coding</r>  | JS     |
 
 <style>
 r { color: Red }
