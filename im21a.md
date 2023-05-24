@@ -14,7 +14,7 @@ title:  "IM21a"
 | Lacoste    | Miro      |                  |              |              |              |              | <o>Spec</o>    |          |            |
 | Lama       | Alessio   |                  |              |              |              |              | <o>Spec</o>    |          |            |
 | Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] |              |              | <r>Coding</r>  | JS       |            |
-| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] |              |              |              | <r>Coding</r>  | ?        |            |
+| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] |              |              | <r>Coding</r>  | Mix      | MERN ??    |
 | Obrist     | Dominic   | Hermes           | [öffnen][22] | [öffnen][42] | [öffnen][62] |              | <r>Coding</r>  | Mix      | MERN ??    |
 | Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <r>Coding</r>  | JS       | Three.js   |
 | Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              |              | <r>Coding</r>  | Mix      |            |
@@ -53,6 +53,7 @@ v { color: Darkviolet }
 [40]: https://github.com/lambooo1/S4F-Projekt
 
 [21]: doc_im21a/S4F-Projekt_Fernando_Meier_Quizlet4All.pdf
+[41]: https://github.com/FernandoMeier/S4F-project
 
 [22]: doc_im21a/S4F-Projekt_Dominic.pdf
 [42]: https://github.com/obristdominic/Hermes.git
