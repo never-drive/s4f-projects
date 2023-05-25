@@ -12,7 +12,7 @@ title:  "IM21a"
 | Fischer    | Nils      | Jump-n-Run Game  | [öffnen][15] |              |              |              | <r>Coding</r>  | Mix      |            |
 | Hindi      | Sami      | astro.conv       | [öffnen][16] | [öffnen][36] | [öffnen][56] |              | <r>Coding</r>  | Mix      | Next.js    |
 | Lacoste    | Miro      |                  |              |              |              |              | <o>Spec</o>    |          |            |
-| Lama       | Alessio   |                  |              |              |              |              | <o>Spec</o>    |          |            |
+| Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] |              | <r>Coding</r>  | React    |            |
 | Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] |              |              | <r>Coding</r>  | JS       |            |
 | Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] |              |              | <r>Coding</r>  | Mix      | MERN ??    |
 | Obrist     | Dominic   | Hermes           | [öffnen][22] | [öffnen][42] | [öffnen][62] |              | <r>Coding</r>  | Mix      | MERN ??    |
@@ -48,6 +48,10 @@ v { color: Darkviolet }
 [16]: doc_im21a/S4F-Projekt_Sami_Astro.Conv.pdf
 [36]: https://github.com/FujiwaraChoki/astro.conv
 [56]: https://astro-conv.vercel.app
+
+[19]: doc_im21a/S4F-Projekt_Alessio_Lama.pdf
+[39]: https://github.com/ArcadeFortune/new-game
+[59]: https://orenonew-game.netlify.app/
 
 [20]: doc_im21a/S4F-Projekt_Lambotharan_Logendran_Wetter-API.pdf
 [40]: https://github.com/lambooo1/S4F-Projekt
