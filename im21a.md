@@ -7,11 +7,11 @@ title:  "IM21a"
 | ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------ | -------------- | -------- | ---------- |
 | Amon       | Shahin    | Flappy-Bird      | [öffnen][11] | [öffnen][31] | [öffnen][51] |              | <r>Coding</r>  | Mix      | Next.js    |
 | Antic      | Nikola    | Swiss-Transport  | [öffnen][12] | [öffnen][32] |              |              | <r>Coding</r>  | React    |            |
-| Blom       | Lucas     | Weather-Website  | [öffnen][13] |              |              |              | <r>Coding</r>  | ?        |            |
+| Blom       | Lucas     | Weather-Website  | [öffnen][13] | [öffnen][33] |              |              | <r>Coding</r>  | JS       |            |
 | Brändle    | Ben       | Flappy-Bird      | [öffnen][14] | [öffnen][34] | [öffnen][54] |              | <r>Coding</r>  | Mix      | Next.js    |
 | Fischer    | Nils      | Jump-n-Run Game  | [öffnen][15] |              |              |              | <r>Coding</r>  | Mix      |            |
 | Hindi      | Sami      | astro.conv       | [öffnen][16] | [öffnen][36] | [öffnen][56] |              | <r>Coding</r>  | Mix      | Next.js    |
-| Lacoste    | Miro      |                  |              |              |              |              | <o>Spec</o>    |          |            |
+| Lacoste    | Miro      | SpotifyStats     | [öffnen][17] |              |              |              | <r>Coding</r>  | Mix      |            |
 | Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] |              | <r>Coding</r>  | React    |            |
 | Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] |              |              | <r>Coding</r>  | JS       |            |
 | Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] |              |              | <r>Coding</r>  | Mix      | MERN ??    |
@@ -38,16 +38,20 @@ v { color: Darkviolet }
 [32]: https://github.com/anticN/S4F-Project-Swiss-Transport
 
 [13]: doc_im21a/S4F-Projekt_Lucas_Blom.pdf
+[33]: https://github.com/SkateFastEatTrash/S4F_Project
 
 [14]: doc_im21a/S4F-Projekt_Ben_Brändle.pdf
 [34]: https://github.com/BWizard06/flappy-bird
 [54]: https://rildes-flappy-bird.netlify.app
 
 [15]: doc_im21a/S4F-Projekt_Nils_Fischer_Jump_and_Run_game.pdf
+[35]: https://github.com/FischerNils06/S4F_Projekt.git
 
 [16]: doc_im21a/S4F-Projekt_Sami_Astro.Conv.pdf
 [36]: https://github.com/FujiwaraChoki/astro.conv
 [56]: https://astro-conv.vercel.app
+
+[17]: doc_im21a/S4F-Projekt_Miro_Lacoste.pdf
 
 [19]: doc_im21a/S4F-Projekt_Alessio_Lama.pdf
 [39]: https://github.com/ArcadeFortune/new-game
