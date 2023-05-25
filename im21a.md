@@ -51,7 +51,7 @@ v { color: Darkviolet }
 
 [19]: doc_im21a/S4F-Projekt_Alessio_Lama.pdf
 [39]: https://github.com/ArcadeFortune/new-game
-[59]: https://orenonew-game.netlify.app/
+[59]: https://orenonew-game.vercel.app/
 
 [20]: doc_im21a/S4F-Projekt_Lambotharan_Logendran_Wetter-API.pdf
 [40]: https://github.com/lambooo1/S4F-Projekt
