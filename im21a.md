@@ -81,4 +81,4 @@ v { color: Darkviolet }
 
 [27]: doc_im21a/S4F-Projekt_David_Zettler.pdf
 [47]: https://github.com/nxtdxve/snake-web
-[67]: https://dave-snake-web.vercel.app/
+[67]: https://snake.zettler.dev/
