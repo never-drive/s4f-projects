@@ -14,12 +14,12 @@ title:  "IM21a"
 | Lacoste    | Miro      | SpotifyStats     | [öffnen][17] |              |              |              | <r>Coding</r>  | Mix      |            |
 | Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] |              | <r>Coding</r>  | React    |            |
 | Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] |              |              | <r>Coding</r>  | JS       |            |
-| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] |              |              | <r>Coding</r>  | Mix      | MERN ??    |
+| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] |              | <r>Coding</r>  | Mix      | MERN ??    |
 | Obrist     | Dominic   | Hermes           | [öffnen][22] | [öffnen][42] | [öffnen][62] |              | <r>Coding</r>  | Mix      | MERN ??    |
 | Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <r>Coding</r>  | JS       | Three.js   |
 | Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              |              | <r>Coding</r>  | Mix      |            |
 | Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] |              |              |              | <r>Coding</r>  | React    |            |
-| Trachsel   | Robin     | Theater Webseite | [öffnen][26] | [öffnen][46] |              |              | <r>Coding</r>  | Mix      |            |
+| Trachsel   | Robin     | Theater Webseite | [öffnen][26] | [öffnen][46] | [öffnen][66] |              | <r>Coding</r>  | Mix      |            |
 | Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] |              | <r>Coding</r>  | JS       |            |
 
 <style>
@@ -62,6 +62,7 @@ v { color: Darkviolet }
 
 [21]: doc_im21a/S4F-Projekt_Fernando_Meier_Quizlet4All.pdf
 [41]: https://github.com/FernandoMeier/S4F-project
+[61]: https://quizlet4all.netlify.app/
 
 [22]: doc_im21a/S4F-Projekt_Dominic.pdf
 [42]: https://github.com/obristdominic/Hermes.git
@@ -78,6 +79,7 @@ v { color: Darkviolet }
 
 [26]: doc_im21a/S4F-Projekt_Robin_Trachel.pdf
 [46]: https://github.com/DoctorProgrammer/theater-robehuuse
+[66]: https://theater-robehuuse.netlify.app/
 
 [27]: doc_im21a/S4F-Projekt_David_Zettler.pdf
 [47]: https://github.com/nxtdxve/snake-web
