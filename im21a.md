@@ -14,8 +14,8 @@ title:  "IM21a"
 | Lacoste    | Miro      | SpotifyStats     | [öffnen][17] |              |              |              | <r>Coding</r>  | Mix      |            |
 | Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <r>Coding</r>  | React    |            |
 | Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] |              |              | <r>Coding</r>  | JS       |            |
-| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] |              | <r>Coding</r>  | Mix      | MERN ??    |
-| Obrist     | Dominic   | Hermes           | [öffnen][22] | [öffnen][42] | [öffnen][62] |              | <r>Coding</r>  | Mix      | MERN ??    |
+| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] |              | <r>Coding</r>  | Mix      | MERN[1] ?? |
+| Obrist     | Dominic   | Hermes           | [öffnen][22] | [öffnen][42] | [öffnen][62] |              | <r>Coding</r>  | Mix      | MERN[2] ?? |
 | Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] |              | <r>Coding</r>  | JS       | Three.js   |
 | Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              |              | <r>Coding</r>  | Mix      |            |
 | Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] |              |              |              | <r>Coding</r>  | React    |            |
@@ -29,6 +29,9 @@ g { color: Green }
 v { color: Darkviolet }
 </style>
 
+
+[1]: https://www.mongodb.com/mern-stack
+[2]: https://github.com/docker/awesome-compose/tree/master/react-express-mongodb
 
 [11]: doc_im21a/S4F-Projekt_Shahin.pdf
 [31]: https://github.com/BWizard06/flappy-bird
