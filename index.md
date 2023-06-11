@@ -16,7 +16,7 @@ title:  "Home"
 | -------------- | ---------------------------------- |
 | <o>Spec</o>    | Doku einreichen, prüfen            |
 | <r>Coding</r>  | Projekt genehmigt                  |
-| <v>Interim</v> | Zwischenstand mitgeteilt           |
+| <v>Interim</v> | Zwischenstand besprochen           |
 | <g>Done<g/>    | Abschlusspräsentation durchgeführt |
 
 <style>

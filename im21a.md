@@ -5,11 +5,11 @@ title:  "IM21a"
 
 | Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option   | Tech-Stack |
 | ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------ | -------------- | -------- | ---------- |
-| Amon       | Shahin    | Flappy-Bird      | [öffnen][11] | [öffnen][31] | [öffnen][51] | [öffnen][71] | <r>Coding</r>  | Mix      | Next.js    |
-| Antic      | Nikola    | Swiss-Transport  | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <r>Coding</r>  | React    |            |
-| Blom       | Lucas     | Weather-Website  | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <r>Coding</r>  | JS       |            |
-| Brändle    | Ben       | Flappy-Bird      | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <r>Coding</r>  | Mix      | Next.js    |
-| Fischer    | Nils      | Jump-n-Run Game  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <r>Coding</r>  | Mix      |            |
+| Amon       | Shahin    | Flappy-Bird      | [öffnen][11] | [öffnen][31] | [öffnen][51] | [öffnen][71] | <v>Interim</v> | Mix      | Next.js    |
+| Antic      | Nikola    | Swiss-Transport  | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <v>Interim</v> | React    |            |
+| Blom       | Lucas     | Weather-Website  | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <v>Interim</v> | JS       |            |
+| Brändle    | Ben       | Flappy-Bird      | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <v>Interim</v> | Mix      | Next.js    |
+| Fischer    | Nils      | Jump-n-Run Game  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <v>Interim</v> | Mix      |            |
 | Hindi      | Sami      | astro.conv       | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <r>Coding</r>  | Mix      | Next.js    |
 | Lacoste    | Miro      | SpotifyStats     | [öffnen][17] | [öffnen][37] |              | [öffnen][77] | <r>Coding</r>  | Mix      |            |
 | Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <r>Coding</r>  | React    |            |
