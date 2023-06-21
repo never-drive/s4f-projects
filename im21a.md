@@ -17,8 +17,8 @@ title:  "IM21a"
 | Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <v>Interim</v> | Mix      | MERN[1] ?? |
 | Obrist     | Dominic   | Hermes           | [öffnen][22] | [öffnen][42] | [öffnen][62] |              | <r>Coding</r>  | Mix      | MERN[2] ?? |
 | Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] | [öffnen][83] | <v>Interim</v> | JS       | Three.js   |
-| Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              | [öffnen][84] | <r>Coding</r>  | Mix      |            |
-| Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] |              |              | [öffnen][85] | <r>Coding</r>  | React    |            |
+| Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              | [öffnen][84] | <v>Interim</v> | Mix      |            |
+| Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] | [öffnen][45] |              | [öffnen][85] | <v>Interim</v> | React    |            |
 | Trachsel   | Robin     | Theater Webseite | [öffnen][26] | [öffnen][46] | [öffnen][66] |              | <r>Coding</r>  | Mix      |            |
 | Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] | [öffnen][87] | <r>Coding</r>  | JS       |            |
 
@@ -96,6 +96,7 @@ v { color: Darkviolet }
 [84]: slides_im21a/S4F-Folien_Ava_bookshelf.pdf
 
 [25]: doc_im21a/S4F-Projekt_Marco_Spina.pdf
+[45]: https://github.com/MarcoSpinaBZZ/S4F-Projekt
 [85]: slides_im21a/S4F-Folien_Marco.pdf
 
 [26]: doc_im21a/S4F-Projekt_Robin_Trachel.pdf
