@@ -18,8 +18,8 @@ title:  "IM21a"
 | Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] | [öffnen][83] | <v>Interim</v> | JS       | Three.js   |
 | Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              | [öffnen][84] | <v>Interim</v> | Mix      |            |
 | Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] | [öffnen][45] |              | [öffnen][85] | <v>Interim</v> | React    |            |
-| Trachsel   | Robin     | Theater Webseite | [öffnen][26] | [öffnen][46] | [öffnen][66] |              | <r>Coding</r>  | Mix      |            |
-| Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] | [öffnen][87] | <r>Coding</r>  | JS       |            |
+| Trachsel   | Robin     | Theater Webseite | [öffnen][26] | [öffnen][46] | [öffnen][66] | [öffnen][86] | <v>Interim</v> | Mix      |            |
+| Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] | [öffnen][87] | <v>Interim</v> | JS       |            |
 
 <style>
 r { color: Red }
@@ -101,6 +101,7 @@ v { color: Darkviolet }
 [26]: doc_im21a/S4F-Projekt_Robin_Trachel.pdf
 [46]: https://github.com/DoctorProgrammer/theater-robehuuse
 [66]: https://theater-robehuuse.netlify.app/
+[86]: slides_im21a/S4F-Folien_Robin_Trachsel.pdf
 
 [27]: doc_im21a/S4F-Projekt_David_Zettler.pdf
 [47]: https://github.com/nxtdxve/snake-web
