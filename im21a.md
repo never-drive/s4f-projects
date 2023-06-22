@@ -14,7 +14,7 @@ title:  "IM21a"
 | Lacoste    | Miro      | SpotifyStats     | [öffnen][17] | [öffnen][37] |              | [öffnen][77] | <v>Interim</v> | JS      |            |
 | Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <v>Interim</v> | React    |            |
 | Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] | [öffnen][60] | [öffnen][80] | <v>Interim</v> | React       |            |
-| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <v>Interim</v> | Mix      | MERN[1] ?? |
+| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <v>Interim</v> | JS       |            |
 | Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] | [öffnen][83] | <v>Interim</v> | JS       | Three.js   |
 | Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              | [öffnen][84] | <v>Interim</v> | Mix      |            |
 | Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] | [öffnen][45] |              | [öffnen][85] | <v>Interim</v> | React    |            |
