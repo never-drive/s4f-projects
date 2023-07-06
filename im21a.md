@@ -5,21 +5,20 @@ title:  "IM21a"
 
 | Name       | Vorname   | Titel            | Doku         | Repo URL     | Live URL     | Folien       | Status         | Option   | Tech-Stack |
 | ---------- | --------- | ---------------- | ------------ | ------------ | ------------ | ------------ | -------------- | -------- | ---------- |
-| Amon       | Shahin    | Flappy-Bird      | [öffnen][11] | [öffnen][31] | [öffnen][51] | [öffnen][71] | <v>Interim</v> | Mix      | Next.js    |
-| Antic      | Nikola    | Swiss-Transport  | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <v>Interim</v> | React    |            |
-| Blom       | Lucas     | Weather-Website  | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <v>Interim</v> | JS       |            |
-| Brändle    | Ben       | Flappy-Bird      | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <v>Interim</v> | Mix      | Next.js    |
-| Fischer    | Nils      | Jump-n-Run Game  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <v>Interim</v> | Mix      |            |
-| Hindi      | Sami      | astro.conv       | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <v>Interim</v> | Mix      | Next.js    |
-| Lacoste    | Miro      | SpotifyStats     | [öffnen][17] | [öffnen][37] |              | [öffnen][77] | <v>Interim</v> | JS      |            |
-| Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <v>Interim</v> | React    |            |
-| Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] | [öffnen][60] | [öffnen][80] | <v>Interim</v> | React       |            |
-| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <v>Interim</v> | JS       |            |
-| Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] | [öffnen][83] | <v>Interim</v> | JS       | Three.js   |
-| Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] |              | [öffnen][84] | <v>Interim</v> | Mix      |            |
-| Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] | [öffnen][45] |              | [öffnen][85] | <v>Interim</v> | React    |            |
-| Trachsel   | Robin     | Theater Webseite | [öffnen][26] | [öffnen][46] | [öffnen][66] | [öffnen][86] | <v>Interim</v> | Mix      |            |
-| Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] | [öffnen][87] | <v>Interim</v> | JS       |            |
+| Amon       | Shahin    | Flappy-Bird      | [öffnen][11] | [öffnen][31] | [öffnen][51] | [öffnen][71] | <g>Done<g/>    | Mix      | Next.js    |
+| Antic      | Nikola    | Swiss-Transport  | [öffnen][12] | [öffnen][32] | [öffnen][52] | [öffnen][72] | <g>Done<g/>    | React    |            |
+| Blom       | Lucas     | Weather-Website  | [öffnen][13] | [öffnen][33] | [öffnen][53] | [öffnen][73] | <g>Done<g/>    | JS       |            |
+| Brändle    | Ben       | Flappy-Bird      | [öffnen][14] | [öffnen][34] | [öffnen][54] | [öffnen][74] | <g>Done<g/>    | Mix      | Next.js    |
+| Fischer    | Nils      | Jump-n-Run Game  | [öffnen][15] | [öffnen][35] | [öffnen][55] | [öffnen][75] | <g>Done<g/>    | Mix      |            |
+| Hindi      | Sami      | astro.conv       | [öffnen][16] | [öffnen][36] | [öffnen][56] | [öffnen][76] | <g>Done<g/>    | Mix      | Next.js    |
+| Lama       | Alessio   | ArcadeFortune    | [öffnen][19] | [öffnen][39] | [öffnen][59] | [öffnen][79] | <g>Done<g/>    | React    |            |
+| Logendran  | Lambotharan | Wetter-API     | [öffnen][20] | [öffnen][40] | [öffnen][60] | [öffnen][80] | <g>Done<g/>    | React    |            |
+| Meier      | Fernando  | Quizlet-4-All    | [öffnen][21] | [öffnen][41] | [öffnen][61] | [öffnen][81] | <g>Done<g/>    | JS       |            |
+| Perez      | Yanik     | Rubix Cube       | [öffnen][23] | [öffnen][43] | [öffnen][63] | [öffnen][83] | <g>Done<g/>    | JS       | Three.js   |
+| Reindl     | Ava       | Bookshelf        | [öffnen][24] | [öffnen][44] | [öffnen][64] | [öffnen][84] | <g>Done<g/>    | Mix      |            |
+| Spina      | Marco     | The&nbsp;Lounge  | [öffnen][25] | [öffnen][45] | [öffnen][65] | [öffnen][85] | <g>Done<g/>    | React    |            |
+| Trachsel   | Robin     | Theater Webseite | [öffnen][26] | [öffnen][46] | [öffnen][66] | [öffnen][86] | <g>Done<g/>    | Mix      |            |
+| Zettler    | David     | Snake            | [öffnen][27] | [öffnen][47] | [öffnen][67] | [öffnen][87] | <g>Done<g/>    | JS       |            |
 
 <style>
 r { color: Red }
@@ -62,10 +61,6 @@ v { color: Darkviolet }
 [56]: https://astro-conv.vercel.app
 [76]: slides_im21a/S4F-Folien_Sami_Hindi.pdf
 
-[17]: doc_im21a/S4F-Projekt_Miro_Lacoste.pdf
-[37]: https://github.com/Sepytox/Spotify-Stats.git
-[77]: slides_im21a/S4F-Folien_Miro.pdf
-
 [19]: doc_im21a/S4F-Projekt_Alessio_Lama.pdf
 [39]: https://github.com/ArcadeFortune/new-game
 [59]: https://orenonew-game.vercel.app/
@@ -92,10 +87,12 @@ v { color: Darkviolet }
 
 [24]: doc_im21a/S4F-Projekt_Ava.pdf
 [44]: https://github.com/javathea/bookshelf.git
+[64]: https://avasbookshelf.netlify.app/
 [84]: slides_im21a/S4F-Folien_Ava_bookshelf.pdf
 
 [25]: doc_im21a/S4F-Projekt_Marco_Spina.pdf
 [45]: https://github.com/MarcoSpinaBZZ/S4F-Projekt
+[65]: https://the-lounge.netlify.app/lounge/page
 [85]: slides_im21a/S4F-Folien_Marco.pdf
 
 [26]: doc_im21a/S4F-Projekt_Robin_Trachel.pdf
